@@ -47,6 +47,24 @@ Every chapter includes concept explanations, working code, and a dedicated pract
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/data-science-foundations/blob/main/numpy/numpy_complete.ipynb)
 
 ---
+## 🐻 Polars — Complete Reference Notebook
+> 8 Chapters | Pandas vs Polars Benchmark Included
+
+| Chapter | Topic | Key Methods |
+|---------|-------|-------------|
+| 1 | Installation & Setup | `!pip install polars`, `pl.__version__` |
+| 2 | Creating DataFrames | `pl.DataFrame()`, `pl.read_csv()` |
+| 3 | Select & Filter | `select()`, `filter()`, `pl.col()` |
+| 4 | Adding & Modifying Columns | `with_columns()`, `.alias()` |
+| 5 | GroupBy & Sort | `group_by()`, `.agg()`, `sort()` |
+| 6 | Join & Concat | `join()`, `concat()` |
+| 7 | Lazy vs Eager Execution | `.lazy()`, `.explain()`, `.collect()` |
+| 8 | Polars vs Pandas Benchmark | **Polars 6x faster** on 1M rows |
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/data-science-foundations/blob/main/polars/polars_learning.ipynb)
+
+---
+---
 
 ## 🛠️ Tools & Environment
 
