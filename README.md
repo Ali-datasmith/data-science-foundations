@@ -94,7 +94,7 @@ Every chapter includes concept explanations, working code, and a dedicated pract
 ```
 Phase 01 ✅  Python + OOP          — Completed
 Phase 02 ✅  Pandas + NumPy        — Completed (this repo)
-Phase 03 ✅ Polars + Plotly        — Completed (this repo)
+Phase 03 ✅  Polars + Plotly       — Completed (this repo)
 Phase 04 ⏳  Rich                  — Coming Soon
 Phase 05 ⏳  DuckDB                — Coming Soon
 Phase 06 ⏳  Streamlit             — Coming Soon
