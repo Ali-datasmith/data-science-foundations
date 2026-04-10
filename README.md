@@ -1,6 +1,6 @@
 # 📊 Data Science Foundations
 
-Complete hands-on learning notebooks for **Pandas**,**NumPy** and **Polars** —
+Complete hands-on learning notebooks for **Pandas**,**NumPy**,**Polars** and **Plotly** —
 built through structured practice, chapter by chapter.  
 Every chapter includes concept explanations, working code, and a dedicated practice set.
 
