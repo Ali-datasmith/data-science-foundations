@@ -86,16 +86,18 @@ Every chapter includes concept explanations, working code, and a dedicated pract
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-green?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-1.26+-orange?logo=numpy)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black)
-
+![Polars](https://img.shields.io/badge/Polars-1.0+-blue?logo=polars)
+![Plotly](https://img.shields.io/badge/Plotly-5.0+-3F4F75?logo=plotly)
 ---
 
 ## 🗺️ Learning Roadmap
 ```
 Phase 01 ✅  Python + OOP          — Completed
 Phase 02 ✅  Pandas + NumPy        — Completed (this repo)
-Phase 03 🔄  Data Analysis Projects — In Progress
-Phase 04 ⏳  Machine Learning       — Coming Soon
-Phase 05 ⏳  AI Development         — Coming Soon
+Phase 03 ✅ Polars + Plotly        — Completed (this repo)
+Phase 04 ⏳  Rich                  — Coming Soon
+Phase 05 ⏳  DuckDB                — Coming Soon
+Phase 06 ⏳  Streamlit             — Coming Soon
 ```
 
 ---
