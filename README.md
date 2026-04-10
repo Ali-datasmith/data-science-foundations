@@ -64,6 +64,20 @@ Every chapter includes concept explanations, working code, and a dedicated pract
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/data-science-foundations/blob/main/polars/polars_learning.ipynb)
 
 ---
+## 📊 Plotly — Complete Reference Notebook
+
+> 6 Chapters | Polars + Plotly Dark Theme Included
+
+| Chapter | Topic | Key Methods |
+|---------|-------|-------------|
+| 1 | Installation & Setup | `import plotly.express as px`, `import polars as pl` |
+| 2 | Loading DataFrames | `pl.DataFrame()`, sample sales / trend / scatter data |
+| 3 | Bar Chart | `px.bar()`, `x=`, `y=`, `title=`, `template=` |
+| 4 | Line Chart | `px.line()`, `markers=True`, trend visualization |
+| 5 | Scatter Plot | `px.scatter()`, `size=`, `color=`, relationship analysis |
+| 6 | Layout Customization | `fig.update_layout()`, axis labels, dark theme |
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/data-science-foundations/blob/main/plotly/plotly_learning.ipynb)
 ---
 
 ## 🛠️ Tools & Environment
