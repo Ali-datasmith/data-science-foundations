@@ -78,8 +78,21 @@ Every chapter includes concept explanations, working code, and a dedicated pract
 | 6 | Layout Customization | `fig.update_layout()`, axis labels, dark theme |
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/data-science-foundations/blob/main/plotly/plotly_learning.ipynb)
----
 
+---
+## 🎨 Rich for Data Science — Professional CLI Reference
+
+> 3 Essential Chapters | Terminal Styling & Progress Tracking
+
+| Chapter | Topic | Key Methods |
+|---------|-------|-------------|
+| 1 | Beautiful Prints | `from rich import print` for colored, nested data inspection |
+| 2 | Structured Tables | `Table()`, `add_column()`, `add_row()` for grids |
+| 3 | Progress Tracking | `track(iterable)` for live status bars in loops |
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/data-science-foundations/blob/main/rich/rich_learning.ipynb)
+
+---
 ## 🛠️ Tools & Environment
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
@@ -88,6 +101,7 @@ Every chapter includes concept explanations, working code, and a dedicated pract
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black)
 ![Polars](https://img.shields.io/badge/Polars-1.0+-blue?logo=polars)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0+-3F4F75?logo=plotly)
+![Rich](https://img.shields.io/badge/Rich-13.0+-2071B8?logo=python&logoColor=white)
 ---
 
 ## 🗺️ Learning Roadmap
@@ -95,7 +109,7 @@ Every chapter includes concept explanations, working code, and a dedicated pract
 Phase 01 ✅  Python + OOP          — Completed
 Phase 02 ✅  Pandas + NumPy        — Completed (this repo)
 Phase 03 ✅  Polars + Plotly       — Completed (this repo)
-Phase 04 ⏳  Rich                  — Coming Soon
+Phase 04 ✅ Rich                   — Completed (this repo)
 Phase 05 ⏳  DuckDB                — Coming Soon
 Phase 06 ⏳  Streamlit             — Coming Soon
 ```
