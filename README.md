@@ -1,6 +1,6 @@
 # 📊 Data Science Foundations
 
-Complete hands-on learning notebooks for **Pandas**,**NumPy**,**Polars**,**Plotly** and **Rich** —
+Complete hands-on learning notebooks for **Pandas**,**NumPy**,**Polars**,**Plotly**,**Rich**,**SQL** and **DuckDB** —
 built through structured practice, chapter by chapter.  
 Every chapter includes concept explanations, working code, and a dedicated practice set.
 
@@ -93,6 +93,28 @@ Every chapter includes concept explanations, working code, and a dedicated pract
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/data-science-foundations/blob/main/rich/rich_learning.ipynb)
 
 ---
+# 🦆 DuckDB + SQL — Complete Reference Notebook
+
+> **8 Lessons | Polars vs SQL Comparison Included**
+
+| Lesson | Topic | Key Methods |
+|--------|-------|-------------|
+| 1 | Installation & Connection | `duckdb.connect(':memory:')`, `con.execute()` |
+| 2 | SELECT & WHERE | `SELECT col FROM df WHERE condition` |
+| 3 | GROUP BY & Aggregation | `GROUP BY`, `SUM()`, `AVG()`, `AS` |
+| 4 | Hybrid Workflow | Query Polars DataFrames directly — no import needed |
+| 5 | Full Pipeline | DuckDB query → `.df()` → Plotly chart |
+
+---
+
+**Approach:** Every SQL concept is shown side-by-side with its Polars equivalent.
+Zero SQL background needed — if you know Polars, you already know the logic.
+
+**Stack:** Python 3.12 · DuckDB · Polars · Plotly · Rich · Google Colab
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/duckdb_sql_learning/blob/main/duckdb_sql_learning.ipynb)
+
+---
 ## 🛠️ Tools & Environment
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
@@ -102,6 +124,8 @@ Every chapter includes concept explanations, working code, and a dedicated pract
 ![Polars](https://img.shields.io/badge/Polars-1.0+-blue?logo=polars)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0+-3F4F75?logo=plotly)
 ![Rich](https://img.shields.io/badge/Rich-13.0+-2071B8?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-DuckDB%20Dialect-003B57?logo=sqlite&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-1.0+-FFBE00?logo=duckdb&logoColor=black)
 ---
 
 ## 🗺️ Learning Roadmap
@@ -110,7 +134,7 @@ Phase 01 ✅  Python + OOP          — Completed
 Phase 02 ✅  Pandas + NumPy        — Completed (this repo)
 Phase 03 ✅  Polars + Plotly       — Completed (this repo)
 Phase 04 ✅ Rich                   — Completed (this repo)
-Phase 05 ⏳  DuckDB                — Coming Soon
+Phase 05 ✅ DuckDB + SQL           — Completed (this repo)
 Phase 06 ⏳  Streamlit             — Coming Soon
 ```
 
