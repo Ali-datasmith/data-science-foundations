@@ -1,6 +1,6 @@
 # 📊 Data Science Foundations
 
-Complete hands-on learning notebooks for **Pandas**,**NumPy**,**Polars**,**Plotly**,**Rich**,**SQL** and **DuckDB** —
+Complete hands-on learning notebooks for **Pandas**,**NumPy**,**Polars**,**Plotly**,**Rich**,**SQL**,**DuckDB** and **Streamlit** —
 built through structured practice, chapter by chapter.  
 Every chapter includes concept explanations, working code, and a dedicated practice set.
 
@@ -116,49 +116,17 @@ Zero SQL background needed — if you know Polars, you already know the logic.
 
 ---
 ## 📚 Streamlit Basics – Lessons 1 to 3
+> 5 Core Topics | Beginner Friendly
 
-A clean and practical introduction to building interactive web applications with **Streamlit** using Python.
+| Chapter | Topic                        | Key Methods                          |
+|---------|------------------------------|--------------------------------------|
+| 1       | UI Foundation                | `st.title()`, `st.write()`           |
+| 2       | Layout & Navigation          | `st.sidebar`                         |
+| 3       | Interactive Widgets          | `st.selectbox()`                     |
+| 4       | Data Display                 | `st.dataframe()`                     |
+| 5       | Visualization                | `st.plotly_chart()`                  |
 
-### What You Will Learn
-
-| Lesson | Topic                        | Key Features Covered                          |
-|--------|------------------------------|-----------------------------------------------|
-| 1      | UI Foundation                | `st.title()`, `st.write()`                    |
-| 2      | Layout & Navigation          | `st.sidebar`                                  |
-| 3      | Interactive Widgets          | `st.selectbox()` for live filtering           |
-| 4      | Data Display                 | `st.dataframe()`                              |
-| 5      | Visualization                | `st.plotly_chart()`                           |
-
-### Key Takeaways
-
-- How to quickly turn Python scripts into beautiful, interactive web apps
-- Using the sidebar for a clean and professional layout
-- Creating dynamic filters with widgets like `st.selectbox`
-- Displaying Polars DataFrames interactively with `st.dataframe`
-- Integrating Plotly charts using `st.plotly_chart`
-- Understanding Streamlit’s automatic re-run mechanism
-
-### Notebook Content
-
-This notebook is a **complete summary and quick reference** for the first three lessons of Streamlit. It covers:
-- Setting up the basic app structure
-- Adding titles, text, and markdown
-- Organizing controls in the sidebar
-- Filtering data in real-time
-- Showing data tables and interactive visualizations
-
-Ideal for beginners who want to go from zero to building their first interactive dashboard.
-
-### Technologies Used
-
-- **Streamlit** – Main framework
-- **Polars** – DataFrame library
-- **Plotly** – Interactive visualizations
-
-### How to Run
-
-```bash
-streamlit run your_app.py
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/data-science-foundations/blob/main/streamlit/streamlit_lessons_1_3.ipynb)
 ---
 
 ## 🛠️ Tools & Environment
@@ -172,6 +140,7 @@ streamlit run your_app.py
 ![Rich](https://img.shields.io/badge/Rich-13.0+-2071B8?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-DuckDB%20Dialect-003B57?logo=sqlite&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-1.0+-FFBE00?logo=duckdb&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.42+-FF4B4B?logo=streamlit&logoColor=white)
 ---
 
 ## 🗺️ Learning Roadmap
@@ -181,7 +150,7 @@ Phase 02 ✅  Pandas + NumPy        — Completed (this repo)
 Phase 03 ✅  Polars + Plotly       — Completed (this repo)
 Phase 04 ✅ Rich                   — Completed (this repo)
 Phase 05 ✅ DuckDB + SQL           — Completed (this repo)
-Phase 06 ⏳  Streamlit             — Coming Soon
+Phase 06 ✅ Streamlit              — Completed (this repo)
 ```
 
 ---
