@@ -115,6 +115,52 @@ Zero SQL background needed — if you know Polars, you already know the logic.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/duckdb_sql_learning/blob/main/duckdb_sql_learning.ipynb)
 
 ---
+## 📚 Streamlit Basics – Lessons 1 to 3
+
+A clean and practical introduction to building interactive web applications with **Streamlit** using Python.
+
+### What You Will Learn
+
+| Lesson | Topic                        | Key Features Covered                          |
+|--------|------------------------------|-----------------------------------------------|
+| 1      | UI Foundation                | `st.title()`, `st.write()`                    |
+| 2      | Layout & Navigation          | `st.sidebar`                                  |
+| 3      | Interactive Widgets          | `st.selectbox()` for live filtering           |
+| 4      | Data Display                 | `st.dataframe()`                              |
+| 5      | Visualization                | `st.plotly_chart()`                           |
+
+### Key Takeaways
+
+- How to quickly turn Python scripts into beautiful, interactive web apps
+- Using the sidebar for a clean and professional layout
+- Creating dynamic filters with widgets like `st.selectbox`
+- Displaying Polars DataFrames interactively with `st.dataframe`
+- Integrating Plotly charts using `st.plotly_chart`
+- Understanding Streamlit’s automatic re-run mechanism
+
+### Notebook Content
+
+This notebook is a **complete summary and quick reference** for the first three lessons of Streamlit. It covers:
+- Setting up the basic app structure
+- Adding titles, text, and markdown
+- Organizing controls in the sidebar
+- Filtering data in real-time
+- Showing data tables and interactive visualizations
+
+Ideal for beginners who want to go from zero to building their first interactive dashboard.
+
+### Technologies Used
+
+- **Streamlit** – Main framework
+- **Polars** – DataFrame library
+- **Plotly** – Interactive visualizations
+
+### How to Run
+
+```bash
+streamlit run your_app.py
+---
+
 ## 🛠️ Tools & Environment
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
