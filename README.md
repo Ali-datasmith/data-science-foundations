@@ -148,9 +148,9 @@ Zero SQL background needed — if you know Polars, you already know the logic.
 Phase 01 ✅  Python + OOP          — Completed
 Phase 02 ✅  Pandas + NumPy        — Completed (this repo)
 Phase 03 ✅  Polars + Plotly       — Completed (this repo)
-Phase 04 ✅ Rich                   — Completed (this repo)
-Phase 05 ✅ DuckDB + SQL           — Completed (this repo)
-Phase 06 ✅ Streamlit              — Completed (this repo)
+Phase 04 ✅  Rich                  — Completed (this repo)
+Phase 05 ✅  DuckDB + SQL          — Completed (this repo)
+Phase 06 ✅  Streamlit             — Completed (this repo)
 ```
 
 ---
