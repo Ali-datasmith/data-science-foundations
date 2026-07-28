@@ -1,3 +1,6 @@
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/f17347be-dfb0-4afc-b420-936025682556" />
+
+
 # 📊 Data Science Foundations
 
 Complete hands-on learning notebooks for **Pandas**,**NumPy**,**Polars**,**Plotly**,**Rich**,**SQL**,**DuckDB** and **Streamlit** —
@@ -143,20 +146,8 @@ Zero SQL background needed — if you know Polars, you already know the logic.
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.42+-FF4B4B?logo=streamlit&logoColor=white)
 ---
 
-## 🗺️ Learning Roadmap
-```
-Phase 01 ✅  Python + OOP          — Completed
-Phase 02 ✅  Pandas + NumPy        — Completed (this repo)
-Phase 03 ✅  Polars + Plotly       — Completed (this repo)
-Phase 04 ✅  Rich                  — Completed (this repo)
-Phase 05 ✅  DuckDB + SQL          — Completed (this repo)
-Phase 06 ✅  Streamlit             — Completed (this repo)
-```
-
----
-
 ## 👤 Author
 
-**Muhammad Ali Rajput**  
+**Ali-datasmith**  
 Python Developer | Aspiring Data Scientist  
 [GitHub](https://github.com/Ali-datasmith)
