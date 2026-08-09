@@ -110,10 +110,7 @@ Every chapter includes concept explanations, working code, and a dedicated pract
 
 ---
 
-**Approach:** Every SQL concept is shown side-by-side with its Polars equivalent.
-Zero SQL background needed — if you know Polars, you already know the logic.
 
-**Stack:** Python 3.12 · DuckDB · Polars · Plotly · Rich · Google Colab
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-datasmith/duckdb_sql_learning/blob/main/duckdb_sql_learning.ipynb)
 
