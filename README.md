@@ -7,7 +7,7 @@ Complete hands-on learning notebooks for **Pandas**,**NumPy**,**Polars**,**Plotl
 built through structured practice, chapter by chapter.  
 Every chapter includes concept explanations, working code, and a dedicated practice set.
 
-> 🔄 Actively updated as learning progresses toward freelance Data Science.
+> 🔄 Actively updated as learning progresses toward Data related topics.
 
 ---
 
